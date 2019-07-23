@@ -1,0 +1,2 @@
+# ConferencePlanner
+Conferenceplanner in c#
